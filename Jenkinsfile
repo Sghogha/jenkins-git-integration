@@ -1,0 +1,3 @@
+pipelin{
+  agent any 
+}
